@@ -2,7 +2,7 @@
 //  SwiftUICryptoApp.swift
 //  SwiftUICrypto
 //
-//  Created by ivan ruwido  on 18.01.24.
+//  Created by ivan trj  on 18.01.24.
 //
 
 import SwiftUI
