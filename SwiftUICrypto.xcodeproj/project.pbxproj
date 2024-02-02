@@ -73,6 +73,7 @@
 			children = (
 				2CBF98372B592A430005A157 /* SwiftUICryptoApp.swift */,
 				2CBF98452B592C8B0005A157 /* Extensions */,
+				2CBF98542B5939D70005A157 /* Models */,
 				2CBF98482B592F650005A157 /* Core */,
 				2CBF98392B592A430005A157 /* ContentView.swift */,
 				2CBF983B2B592A460005A157 /* Assets.xcassets */,
@@ -147,6 +148,14 @@
 				2CBF98522B5932C80005A157 /* CircleButtonAnimationView.swift */,
 			);
 			path = CircleButton;
+			sourceTree = "<group>";
+		};
+		2CBF98542B5939D70005A157 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2CBF98552B5939EC0005A157 /* CoinModel.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
