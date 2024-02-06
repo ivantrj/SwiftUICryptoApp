@@ -2,7 +2,7 @@
 //  PreviewProvider.swift
 //  SwiftfulCrypto
 //
-//  Created by ivan trj on 5/9/21.
+//  Created by Ivan Trajanovski on 5/9/21.
 //
 
 import Foundation

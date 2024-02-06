@@ -2,7 +2,7 @@
 //  Color.swift
 //  SwiftUICrypto
 //
-//  Created by ivan trj  on 18.01.24.
+//  Created by Ivan Trajanovski  on 18.01.24.
 //
 
 import Foundation

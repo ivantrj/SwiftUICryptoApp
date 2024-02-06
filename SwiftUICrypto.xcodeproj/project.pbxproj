@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C8964462B6CFB88001F69A7 /* PreviewProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8964452B6CFB88001F69A7 /* PreviewProvider.swift */; };
+		2C89644A2B70F53B001F69A7 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8964492B70F53B001F69A7 /* Double.swift */; };
 		2CBF98382B592A430005A157 /* SwiftUICryptoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CBF98372B592A430005A157 /* SwiftUICryptoApp.swift */; };
 		2CBF983A2B592A430005A157 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CBF98392B592A430005A157 /* ContentView.swift */; };
 		2CBF983C2B592A460005A157 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CBF983B2B592A460005A157 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		2C8964452B6CFB88001F69A7 /* PreviewProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreviewProvider.swift; sourceTree = "<group>"; };
+		2C8964492B70F53B001F69A7 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
 		2CBF98342B592A430005A157 /* SwiftUICrypto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUICrypto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CBF98372B592A430005A157 /* SwiftUICryptoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICryptoApp.swift; sourceTree = "<group>"; };
 		2CBF98392B592A430005A157 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 			children = (
 				2CBF98462B592C9D0005A157 /* Color.swift */,
 				2C8964452B6CFB88001F69A7 /* PreviewProvider.swift */,
+				2C8964492B70F53B001F69A7 /* Double.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 				2CBF98472B592C9D0005A157 /* Color.swift in Sources */,
 				2CBF98532B5932C80005A157 /* CircleButtonAnimationView.swift in Sources */,
 				2C8964462B6CFB88001F69A7 /* PreviewProvider.swift in Sources */,
+				2C89644A2B70F53B001F69A7 /* Double.swift in Sources */,
 				2CBF98562B5939EC0005A157 /* CoinModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
